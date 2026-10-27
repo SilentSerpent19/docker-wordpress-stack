@@ -1,4 +1,4 @@
-# Inception
+# Docker WordPress Stack
 
 A self-hosted WordPress stack built from scratch with Docker: NGINX for TLS
 termination, WordPress on php-fpm, and MariaDB, each in its own container,
